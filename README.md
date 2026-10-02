@@ -20,3 +20,6 @@ Produces a screening-level flood susceptibility map for Elmanagil using a weight
 
 ## Why this project
 Carried out independently, before the internship, to deepen practical skills in climate and hydrological data analysis and to demonstrate openness to learning new tools relevant to the RCRP internship tasks.
+   ## Technical Reports
+   - [Rainfall Comparison Report](./rainfall_technical_report.pdf)
+   - [Flood Susceptibility Report](./flood_susceptibility_technical_report.pdf)
